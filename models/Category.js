@@ -1,5 +1,5 @@
 const { Model, DataTypes } = require('sequelize');
-const { all } = require('sequelize/types/lib/operators.js');
+// const { all } = require('sequelize/types/lib/operators.js');
 
 const sequelize = require('../config/connection.js');
 
