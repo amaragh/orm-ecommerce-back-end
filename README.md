@@ -13,7 +13,6 @@ Clone the repo, then from the command line, run `npm install` in the project's r
 ## Usage
 
 The demo video can be found [here]().
-<iframe src="https://drive.google.com/file/d/1DnukwgX3-siWhaQR1dGH-ElbrEthQdHG/preview" width="640" height="480"></iframe>
 
 Navigate to project root directory and run the command `npm start` to start the server. You will then be able to send various requests to the server to view, add, update and remove data from the database.
 
